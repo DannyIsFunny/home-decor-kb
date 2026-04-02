@@ -1,0 +1,1 @@
+# Home Decor Knowledge Base - API routes

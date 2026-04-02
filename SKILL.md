@@ -1,11 +1,11 @@
 ---
 name: home-decor-kb
-version: 1.0.0
+version: 1.2.0
 description: |
   🏠 专业装修知识库 - 室内设计与家具选配专家
   覆盖多种装修风格（奶油风/北欧/日式/新中式/意式极简等）、家具选配、硬软装标准、预算体系、避坑指南。
-  收录国内外权威书籍内容，包括 Francis D.K. Ching《Interior Design Illustrated》、Donald Norman《The Design of Everyday Things》等。
-  Use when: 用户咨询装修风格、家具选购、软装搭配、色彩设计、灯光设计、预算规划、装修避坑等问题。
+  收录国内外权威书籍 + 高校教材内容。
+  References: 使用 references/ 目录下的书籍知识和高校教材回答专业问题。
 ---
 
 # Home Decor Knowledge Base Skill
